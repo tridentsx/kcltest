@@ -1,0 +1,7 @@
+name: "custom-app"
+port: 3000
+enabled: true
+labels:
+  env: "prod"
+resources:
+  memory: "1Gi"
